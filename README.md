@@ -3,7 +3,7 @@
 ## 📌 Course Information
 - **📛 Course Code:** NT531  
 - **📖 Course Title:** Modeling and performance evaluation of network and computer systems  
-- **🎓 Course Type:** Specialized course in Computer Networks and Data Communications  
+- **🎓 Course Type:** Specialized course in Computer Networks and Data Communications (UIT)
 
 ## 📜 Course Description
 This course presents network performance evaluation models, describing the characteristics of different network architectures, as well as the concepts and methods related to network performance measurement. Additionally, tools used for network performance evaluation will also be introduced.  
