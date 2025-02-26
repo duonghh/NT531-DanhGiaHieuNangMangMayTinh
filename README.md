@@ -23,3 +23,6 @@ More specifically, the course covers analytical modeling techniques that help pr
    git clone https://github.com/username/repository.git
    ```
 2. Browse through the folders to find relevant materials.
+
+## 📬 Contact
+- **💌 Email:** 1410hhd@gmail.com
