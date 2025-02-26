@@ -1,8 +1,8 @@
-# 📘 NT531 - Performance Evaluation of Computer Networks
+# 📘 NT531 - Modeling and performance evaluation of network and computer systems
 
 ## 📌 Course Information
 - **📛 Course Code:** NT531  
-- **📖 Course Title:** Performance Evaluation of Computer Networks  
+- **📖 Course Title:** Modeling and performance evaluation of network and computer systems  
 - **🎓 Course Type:** Specialized course in Computer Networks and Data Communications  
 
 ## 📜 Course Description
